@@ -79,9 +79,9 @@ def process_video(input_video_path, animated_output_path, edges_output_path):
     print(f"\nProcessing complete. Outputs saved to:\n- Animated Video: {animated_output_path}\n- Edges Video: {edges_output_path}")
 
 # Paths to input and output videos
-input_video_path = r"C:\Users\Lohith\OneDrive\Desktop\Edge-Based Image Animation\videoplayback.mp4"
-animated_output_path = r"C:\Users\Lohith\OneDrive\Desktop\Edge-Based Image Animation\animated_output.mp4"
-edges_output_path = r"C:\Users\Lohith\OneDrive\Desktop\Edge-Based Image Animation\edges_output.mp4"
+input_video_path = r"path"
+animated_output_path = r"path"
+edges_output_path = r"path"
 
 # Run the video processing function
 process_video(input_video_path, animated_output_path, edges_output_path)
